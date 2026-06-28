@@ -1,0 +1,16 @@
+# React
+node_modules/
+dist/
+
+# Laravel
+vendor/
+.env
+bootstrap/cache/
+storage/logs/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
